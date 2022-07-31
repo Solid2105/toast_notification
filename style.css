@@ -52,7 +52,7 @@ body {
     align-items: flex-end;
 }
 
-.toasts {
+.toast {
     background-color: #fff;
     padding: 1rem 2rem;
     border-radius: 5px;
